@@ -24,7 +24,6 @@ class App extends Component{
               className='form-control'
               rows='35' />
           </div>
-
         <div className="col-sm-6">
           <div>
             {sampleText}
